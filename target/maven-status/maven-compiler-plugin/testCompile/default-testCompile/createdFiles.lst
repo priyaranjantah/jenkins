@@ -1,7 +1,7 @@
-LoginStep.class
 com\cucumber\MavenCucumberPrototype\TestRunner.class
 com\cucumber\MavenCucumberPrototype\HelloWorld.class
 com\cucumber\MavenCucumberPrototype\Annotation.class
+com\cucumber\MavenCucumberPrototype\LoginStep.class
 com\cucumber\MavenCucumberPrototype\JavaMongoDBAuthExample.class
 com\cucumber\MavenCucumberPrototype\Netwitness.class
 com\cucumber\MavenCucumberPrototype\Wsus.class

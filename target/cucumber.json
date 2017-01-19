@@ -17,7 +17,7 @@
         "steps": [
           {
             "result": {
-              "duration": 10593775648,
+              "duration": 12715220770,
               "status": "passed"
             },
             "line": 5,
@@ -45,7 +45,7 @@
         "steps": [
           {
             "result": {
-              "duration": 125206882,
+              "duration": 150768367,
               "status": "passed"
             },
             "line": 10,
@@ -63,7 +63,7 @@
           },
           {
             "result": {
-              "duration": 11148105085,
+              "duration": 12805242544,
               "status": "passed"
             },
             "line": 11,
@@ -81,7 +81,7 @@
           },
           {
             "result": {
-              "duration": 174760648,
+              "duration": 348280094,
               "status": "passed"
             },
             "line": 12,
@@ -98,6 +98,6 @@
     "description": "",
     "id": "annotation",
     "keyword": "Feature",
-    "uri": "src/resource/outline.feature"
+    "uri": "src/test/java/resource/outline.feature"
   }
 ]

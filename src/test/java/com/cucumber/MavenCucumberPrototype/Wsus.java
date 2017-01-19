@@ -94,6 +94,7 @@ import java.util.concurrent.TimeUnit;
             profile.setPreference( "browser.download.manager.showWhenStarting", false );
             profile.setPreference( "pdfjs.disabled", true );
 
+
         }
     }
 

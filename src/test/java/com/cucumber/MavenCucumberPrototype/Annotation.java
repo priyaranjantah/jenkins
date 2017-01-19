@@ -30,7 +30,7 @@ public class Annotation {
 
     @When("^I enter password as \"(.*)\"$")
     public void enterPassword(String arg1) {
-        driver.findElement(By.id("pass")).sendKeys("$Parvati123");
+        driver.findElement(By.id("pass")).sendKeys("$Ecat@123");
         driver.findElement(By.id("loginbutton")).click();
     }
 

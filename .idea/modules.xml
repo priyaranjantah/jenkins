@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MavenCucumberPrototype.iml" filepath="$PROJECT_DIR$/MavenCucumberPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium/Selenium.iml" filepath="$PROJECT_DIR$/../Selenium/Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testng/Session2/Session2.iml" filepath="$PROJECT_DIR$/../testng/Session2/Session2.iml" />
     </modules>
   </component>
 </project>
