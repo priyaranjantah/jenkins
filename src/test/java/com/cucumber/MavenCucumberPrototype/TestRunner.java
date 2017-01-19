@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         format = {"pretty","json:target/cucumber.json"},
-        features = "src/test/java/resource/outline.feature"
+        features = "src/test/resource/outline.feature"
 )
 public class TestRunner {
 
